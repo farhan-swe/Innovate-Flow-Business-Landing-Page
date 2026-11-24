@@ -1,5 +1,5 @@
-[![GitHub stars](https://img.shields.io/github/stars/khdxsohee/Innovate-Flow-Business-Landing-Page?style=flat-square&color=blue)](https://github.com/khdxsohee/Innovate-Flow-Business-Landing-Page/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/khdxsohee/Innovate-Flow-Business-Landing-Page?style=flat-square&color=blue)](https://github.com/khdxsohee/Innovate-Flow-Business-Landing-Page/network)
+[![GitHub stars](https://img.shields.io/github/stars/farhan-swe/Innovate-Flow-Business-Landing-Page?style=flat-square&color=blue)](https://github.com/farhan-swe/Innovate-Flow-Business-Landing-Page/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/farhan-swe/Innovate-Flow-Business-Landing-Page?style=flat-square&color=blue)](https://github.com/farhan-swe/Innovate-Flow-Business-Landing-Page/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Made with HTML](https://img.shields.io/badge/Made%20with-HTML-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Made with CSS](https://img.shields.io/badge/Made%20with-CSS-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -42,7 +42,7 @@ Getting this project up and running is very simple.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/khdxsohee/Innovate-Flow-Business-Landing-Page.git
+    git clone https://github.com/farhan-swe/Innovate-Flow-Business-Landing-Page.git
     ```
 
 2.  **Navigate to the project directory:**
